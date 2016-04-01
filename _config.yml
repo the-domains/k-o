@@ -1,0 +1,28 @@
+name: K.O
+favicon: null
+layout_spectrum: 0.052671223878860474
+typography_spectrum: 0.5897622320335358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.24660835904069245
+  lightness: 0.3113914851564914
+  saturation: 0.35937836742959917
+  rhythmicContrast: 0.6169251785613596
+purpose: []
